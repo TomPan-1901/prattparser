@@ -1,0 +1,20 @@
+public enum TokenType {
+        EOF,
+        NUMBER,
+        PLUS,
+        MINUS,
+        MULTIPLY,
+        DIVIDE,
+        MOD,
+        EXPONENT,
+        LPAREN,
+        RPAREN,
+        ABS,
+        SQRT,
+        EXP,
+        LN,
+        LOG10,
+        SIN,
+        COS,
+        TANH
+}
